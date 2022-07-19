@@ -1,4 +1,13 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=youseegreen)](https://github.com/ryo-ma/github-profile-trophy)
+# green lover🌿
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youseegreen&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youseegreen&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youseegreen&theme=monokai)
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=youseegreen&show_icons=true&theme=monokai)](https://github.com/youseegreen)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=youseegreen&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **youseegreen/youseegreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
