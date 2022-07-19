@@ -8,6 +8,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=youseegreen&show_icons=true&theme=monokai)](https://github.com/youseegreen)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=youseegreen&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=youseegreen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **youseegreen/youseegreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
